@@ -1,0 +1,10 @@
+[package]
+edition = "2021"
+name = "triangle"
+version = "0.0.0"
+
+[dependencies]
+itertools = "*"
+
+[features]
+generic = []
